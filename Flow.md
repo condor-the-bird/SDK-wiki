@@ -7,6 +7,7 @@ Call:
 - npm start
 
 ***Important developer note*** 
+
 This build includes source code of the DCLib.
 ```dapp/src/ - dir for develop dapp/index.js``` entry file with an example ```dapp/src/dapp.logic.js``` customized file, put your game logic into it.
 ```
